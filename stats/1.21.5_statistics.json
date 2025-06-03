@@ -1,0 +1,683 @@
+{
+  "categories": [
+    {
+      "name": "General",
+      "defaultIncluded": true,
+      "statistics": [
+        {
+          "name": "Animals Bred",
+          "id": "minecraft:animals_bred"
+        },
+        {
+          "name": "Armor Pieces Cleaned",
+          "id": "minecraft:clean_armor"
+        },
+        {
+          "name": "Banners Cleaned",
+          "id": "minecraft:clean_banner"
+        },
+        {
+          "name": "Barrels Opened",
+          "id": "minecraft:open_barrel"
+        },
+        {
+          "name": "Bells Rung",
+          "id": "minecraft:bell_ring"
+        },
+        {
+          "name": "Cake Slices Eaten",
+          "id": "minecraft:eat_cake_slice"
+        },
+        {
+          "name": "Cauldrons Filled",
+          "id": "minecraft:fill_cauldron"
+        },
+        {
+          "name": "Chests Opened",
+          "id": "minecraft:open_chest"
+        },
+        {
+          "name": "Damage Absorbed",
+          "id": "minecraft:damage_absorbed"
+        },
+        {
+          "name": "Damage Blocked by Shield",
+          "id": "minecraft:damage_blocked_by_shield"
+        },
+        {
+          "name": "Damage Dealt",
+          "id": "minecraft:damage_dealt"
+        },
+        {
+          "name": "Damage Dealt (Absorbed)",
+          "id": "minecraft:damage_dealt_absorbed"
+        },
+        {
+          "name": "Damage Dealt (Resisted)",
+          "id": "minecraft:damage_dealt_resisted"
+        },
+        {
+          "name": "Damage Resisted",
+          "id": "minecraft:damage_resisted"
+        },
+        {
+          "name": "Damage Taken",
+          "id": "minecraft:damage_taken"
+        },
+        {
+          "name": "Dispensers Searched",
+          "id": "minecraft:inspect_dispenser"
+        },
+        {
+          "name": "Distance Climbed",
+          "id": "minecraft:climb_one_cm"
+        },
+        {
+          "name": "Distance Crouched",
+          "id": "minecraft:crouch_one_cm"
+        },
+        {
+          "name": "Distance Fallen",
+          "id": "minecraft:fall_one_cm"
+        },
+        {
+          "name": "Distance Flown",
+          "id": "minecraft:fly_one_cm"
+        },
+        {
+          "name": "Distance Sprinted",
+          "id": "minecraft:sprint_one_cm"
+        },
+        {
+          "name": "Distance Swum",
+          "id": "minecraft:swim_one_cm"
+        },
+        {
+          "name": "Distance Walked",
+          "id": "minecraft:walk_one_cm"
+        },
+        {
+          "name": "Distance Walked on Water",
+          "id": "minecraft:walk_on_water_one_cm"
+        },
+        {
+          "name": "Distance Walked under Water",
+          "id": "minecraft:walk_under_water_one_cm"
+        },
+        {
+          "name": "Distance by Boat",
+          "id": "minecraft:boat_one_cm"
+        },
+        {
+          "name": "Distance by Elytra",
+          "id": "minecraft:aviate_one_cm"
+        },
+        {
+          "name": "Distance by Horse",
+          "id": "minecraft:horse_one_cm"
+        },
+        {
+          "name": "Distance by Minecart",
+          "id": "minecraft:minecart_one_cm"
+        },
+        {
+          "name": "Distance by Pig",
+          "id": "minecraft:pig_one_cm"
+        },
+        {
+          "name": "Distance by Strider",
+          "id": "minecraft:strider_one_cm"
+        },
+        {
+          "name": "Droppers Searched",
+          "id": "minecraft:inspect_dropper"
+        },
+        {
+          "name": "Ender Chests Opened",
+          "id": "minecraft:open_enderchest"
+        },
+        {
+          "name": "Fish Caught",
+          "id": "minecraft:fish_caught"
+        },
+        {
+          "name": "Games Quit",
+          "id": "minecraft:leave_game"
+        },
+        {
+          "name": "Hoppers Searched",
+          "id": "minecraft:inspect_hopper"
+        },
+        {
+          "name": "Interactions with Anvil",
+          "id": "minecraft:interact_with_anvil"
+        },
+        {
+          "name": "Interactions with Beacon",
+          "id": "minecraft:interact_with_beacon"
+        },
+        {
+          "name": "Interactions with Blast Furnace",
+          "id": "minecraft:interact_with_blast_furnace"
+        },
+        {
+          "name": "Interactions with Brewing Stand",
+          "id": "minecraft:interact_with_brewing_stand"
+        },
+        {
+          "name": "Interactions with Campfire",
+          "id": "minecraft:interact_with_campfire"
+        },
+        {
+          "name": "Interactions with Cartography",
+          "id": "minecraft:interact_with_cartography_table"
+        },
+        {
+          "name": "Interactions with Crafting Table",
+          "id": "minecraft:interact_with_crafting_table"
+        },
+        {
+          "name": "Interactions with Furnace",
+          "id": "minecraft:interact_with_furnace"
+        },
+        {
+          "name": "Interactions with Grindstone",
+          "id": "minecraft:interact_with_grindstone"
+        },
+        {
+          "name": "Interactions with Lectern",
+          "id": "minecraft:interact_with_lectern"
+        },
+        {
+          "name": "Interactions with Loom",
+          "id": "minecraft:interact_with_loom"
+        },
+        {
+          "name": "Interactions with Smithing Table",
+          "id": "minecraft:interact_with_smithing_table"
+        },
+        {
+          "name": "Interactions with Smoker",
+          "id": "minecraft:interact_with_smoker"
+        },
+        {
+          "name": "Interactions with Stonecutter",
+          "id": "minecraft:interact_with_stonecutter"
+        },
+        {
+          "name": "Items Dropped",
+          "id": "minecraft:drop"
+        },
+        {
+          "name": "Items Enchanted",
+          "id": "minecraft:enchant_item"
+        },
+        {
+          "name": "Jumps",
+          "id": "minecraft:jump"
+        },
+        {
+          "name": "Mob Kills",
+          "id": "minecraft:mob_kills"
+        },
+        {
+          "name": "Music Discs Played",
+          "id": "minecraft:play_record"
+        },
+        {
+          "name": "Note Blocks Played",
+          "id": "minecraft:play_noteblock"
+        },
+        {
+          "name": "Note Blocks Tuned",
+          "id": "minecraft:tune_noteblock"
+        },
+        {
+          "name": "Number of Deaths",
+          "id": "minecraft:deaths"
+        },
+        {
+          "name": "Plants Potted",
+          "id": "minecraft:pot_flower"
+        },
+        {
+          "name": "Player Kills",
+          "id": "minecraft:player_kills"
+        },
+        {
+          "name": "Raids triggered",
+          "id": "minecraft:raid_trigger"
+        },
+        {
+          "name": "Raids Won",
+          "id": "minecraft:raid_win"
+        },
+        {
+          "name": "Shulker Boxes Cleaned",
+          "id": "minecraft:clean_shulker_box"
+        },
+        {
+          "name": "Shulker Boxes Opened",
+          "id": "minecraft:open_shulker_box"
+        },
+        {
+          "name": "Sneak Time",
+          "id": "minecraft:sneak_time"
+        },
+        {
+          "name": "Talked to Villagers",
+          "id": "minecraft:talked_to_villager"
+        },
+        {
+          "name": "Targets Hit",
+          "id": "minecraft:target_hit"
+        },
+        {
+          "name": "Time Played",
+          "id": "minecraft:play_time"
+        },
+        {
+          "name": "Time Since Last Death",
+          "id": "minecraft:time_since_death"
+        },
+        {
+          "name": "Time Since Last Rest",
+          "id": "minecraft:time_since_rest"
+        },
+        {
+          "name": "Time with World Open",
+          "id": "minecraft:total_world_time"
+        },
+        {
+          "name": "Times Slept in a Bed",
+          "id": "minecraft:sleep_in_bed"
+        },
+        {
+          "name": "Traded with Villagers",
+          "id": "minecraft:traded_with_villager"
+        },
+        {
+          "name": "Trapped Chests Triggered",
+          "id": "minecraft:trigger_trapped_chest"
+        },
+        {
+          "name": "Water Taken from Cauldron",
+          "id": "minecraft:use_cauldron"
+        }
+      ]
+    },
+    {
+      "name": "Mobs",
+      "defaultIncluded": true,
+      "statistics": [
+        {
+          "name": "Allay",
+          "id": "minecraft:allay",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Armadillo",
+          "id": "minecraft:armadillo",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Axolotl",
+          "id": "minecraft:axolotl",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Bat",
+          "id": "minecraft:bat",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Bee",
+          "id": "minecraft:bee"
+        },
+        {
+          "name": "Blaze",
+          "id": "minecraft:blaze"
+        },
+        {
+          "name": "Bogged",
+          "id": "minecraft:bogged"
+        },
+        {
+          "name": "Breeze",
+          "id": "minecraft:breeze"
+        },
+        {
+          "name": "Camel",
+          "id": "minecraft:camel",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Cat",
+          "id": "minecraft:cat",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Cave Spider",
+          "id": "minecraft:cave_spider"
+        },
+        {
+          "name": "Chicken",
+          "id": "minecraft:chicken",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Cod",
+          "id": "minecraft:",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Cow",
+          "id": "minecraft:cow",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Creaking",
+          "id": "minecraft:creaking"
+        },
+        {
+          "name": "Creeper",
+          "id": "minecraft:creeper"
+        },
+        {
+          "name": "Dolphin",
+          "id": "minecraft:dolphin",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Donkey",
+          "id": "minecraft:donkey",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Drowned",
+          "id": "minecraft:drowned"
+        },
+        {
+          "name": "Elder Guardian",
+          "id": "minecraft:elder_guardian"
+        },
+        {
+          "name": "Enderman",
+          "id": "minecraft:enderman"
+        },
+        {
+          "name": "Endermite",
+          "id": "minecraft:endermite"
+        },
+        {
+          "name": "Ender Dragon",
+          "id": "minecraft:ender_dragon"
+        },
+        {
+          "name": "Evoker",
+          "id": "minecraft:evoker"
+        },
+        {
+          "name": "Fox",
+          "id": "minecraft:fox",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Frog",
+          "id": "minecraft:frog",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Ghast",
+          "id": "minecraft:ghast"
+        },
+        {
+          "name": "Giant",
+          "id": "minecraft:giant",
+          "includeDiedTo": false,
+          "includeKilled": false
+        },
+        {
+          "name": "Glow Squid",
+          "id": "minecraft:glow_squid",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Goat",
+          "id": "minecraft:goat"
+        },
+        {
+          "name": "Guardian",
+          "id": "minecraft:guardian"
+        },
+        {
+          "name": "Hoglin",
+          "id": "minecraft:hoglin"
+        },
+        {
+          "name": "Horse",
+          "id": "minecraft:horse",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Husk",
+          "id": "minecraft:husk"
+        },
+        {
+          "name": "Illusioner",
+          "id": "minecraft:illusioner",
+          "includeDiedTo": false,
+          "includeKilled": false
+        },
+        {
+          "name": "Iron Golem",
+          "id": "minecraft:iron_golem"
+        },
+        {
+          "name": "Llama",
+          "id": "minecraft:llama"
+        },
+        {
+          "name": "Magma Cube",
+          "id": "minecraft:magma_cube"
+        },
+        {
+          "name": "Mooshroom",
+          "id": "minecraft:mooshroom",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Mule",
+          "id": "minecraft:mule",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Ocelot",
+          "id": "minecraft:ocelot",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Panda",
+          "id": "minecraft:panda",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Parrot",
+          "id": "minecraft:parrot",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Phantom",
+          "id": "minecraft:phantom"
+        },
+        {
+          "name": "Pig",
+          "id": "minecraft:pig",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Piglin",
+          "id": "minecraft:piglin"
+        },
+        {
+          "name": "Piglin Brute",
+          "id": "minecraft:piglin_brute"
+        },
+        {
+          "name": "Pillager",
+          "id": "minecraft:pillager"
+        },
+        {
+          "name": "Polar Bear",
+          "id": "minecraft:polar_bear"
+        },
+        {
+          "name": "Pufferfish",
+          "id": "minecraft:pufferfish"
+        },
+        {
+          "name": "Rabbit",
+          "id": "minecraft:rabbit",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Ravager",
+          "id": "minecraft:ravager"
+        },
+        {
+          "name": "Salmon",
+          "id": "minecraft:salmon",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Sheep",
+          "id": "minecraft:sheep",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Shulker",
+          "id": "minecraft:shulker"
+        },
+        {
+          "name": "Silverfish",
+          "id": "minecraft:silverfish"
+        },
+        {
+          "name": "Skeleton",
+          "id": "minecraft:skeleton"
+        },
+        {
+          "name": "Skeleton Horse",
+          "id": "minecraft:",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Slime",
+          "id": "minecraft:slime"
+        },
+        {
+          "name": "Sniffer",
+          "id": "minecraft:sniffer",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Spider",
+          "id": "minecraft:spider"
+        },
+        {
+          "name": "Squid",
+          "id": "minecraft:squid",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Stray",
+          "id": "minecraft:stray"
+        },
+        {
+          "name": "Strider",
+          "id": "minecraft:strider",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Tadpole",
+          "id": "minecraft:tadpole",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Trader Llama",
+          "id": "minecraft:trader_llama"
+        },
+        {
+          "name": "Tropical Fish",
+          "id": "minecraft:tropical_fish",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Turtle",
+          "id": "minecraft:turtle",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Vex",
+          "id": "minecraft:vex"
+        },
+        {
+          "name": "Villager",
+          "id": "minecraft:villager",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Vindicator",
+          "id": "minecraft:vindicator"
+        },
+        {
+          "name": "Wandering Trader",
+          "id": "minecraft:wandering_trader",
+          "includeDiedTo": false
+        },
+        {
+          "name": "Warden",
+          "id": "minecraft:warden"
+        },
+        {
+          "name": "Witch",
+          "id": "minecraft:witch"
+        },
+        {
+          "name": "Wither",
+          "id": "minecraft:wither"
+        },
+        {
+          "name": "Wither Skeleton",
+          "id": "minecraft:wither_skeleton"
+        },
+        {
+          "name": "Wolf",
+          "id": "minecraft:wolf"
+        },
+        {
+          "name": "Zoglin",
+          "id": "minecraft:zoglin"
+        },
+        {
+          "name": "Zombie",
+          "id": "minecraft:zombie"
+        },
+        {
+          "name": "Zombie Horse",
+          "id": "minecraft:zombie_horse",
+          "includeDiedTo": false,
+          "includeKilled": false
+        },
+        {
+          "name": "Zombie Villager",
+          "id": "minecraft:zombie_villager"
+        },
+        {
+          "name": "Zombified Piglin",
+          "id": "minecraft:zombified_piglin"
+        }
+      ]
+    }
+  ]
+}
